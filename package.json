@@ -1,0 +1,31 @@
+{
+  "name": "project-16",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "postcss assets/css/main.css -o assets/css/style.css --env production --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bd-designer-rokib/ph-l1-b9-b10-tea-house-tailwindcss-daisyui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bd-designer-rokib/ph-l1-b9-b10-tea-house-tailwindcss-daisyui/issues"
+  },
+  "homepage": "https://github.com/bd-designer-rokib/ph-l1-b9-b10-tea-house-tailwindcss-daisyui#readme",
+  "description": "",
+  "dependencies": {
+    "vite": "^6.0.7"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "daisyui": "^4.12.23",
+    "postcss": "^8.5.1",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.4.17"
+  }
+}
