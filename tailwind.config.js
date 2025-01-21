@@ -21,7 +21,7 @@ module.exports = {
         shadow_1: "0px 7px 50px 0px rgba(0,0,0,0.06)",
       },
       backgroundImage: {
-        "card-image": "url('/assets/images/client.png')",
+        "card-image": "url('./assets/images/client.png')",
       },
     },
   },
